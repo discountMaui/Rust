@@ -1,0 +1,10 @@
+C:\Users\B.J. Burrows\OneDrive\Personal\Projects\Rust\Let's Get Rusty\guessing_game\target\debug\deps\libcolored-0708ec41c2070d43.rmeta: C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\lib.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\color.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\control.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\error.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\style.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\customcolors.rs
+
+C:\Users\B.J. Burrows\OneDrive\Personal\Projects\Rust\Let's Get Rusty\guessing_game\target\debug\deps\colored-0708ec41c2070d43.d: C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\lib.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\color.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\control.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\error.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\style.rs C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\customcolors.rs
+
+C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\lib.rs:
+C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\color.rs:
+C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\control.rs:
+C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\error.rs:
+C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\style.rs:
+C:\Users\B.J.\ Burrows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\customcolors.rs:
